@@ -1,0 +1,11 @@
+C:\Users\shahar oren\source\repos\StoneGame\bin\Release\StoneGame.exe.config
+C:\Users\shahar oren\source\repos\StoneGame\bin\Release\StoneGame.exe
+C:\Users\shahar oren\source\repos\StoneGame\bin\Release\StoneGame.pdb
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.csproj.AssemblyReference.cache
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.Form1.resources
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.Properties.Resources.resources
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.csproj.GenerateResource.cache
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.csproj.CoreCompileInputs.cache
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.exe
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.pdb
+C:\Users\shahar oren\source\repos\StoneGame\obj\Release\StoneGame.exe.config
